@@ -1,0 +1,67 @@
+{
+  "backup_metadata": {
+    "timestamp": "2025-07-17T23:45:00Z",
+    "framework_version": "v5.1.7 Unified",
+    "backup_type": "Emergency Manual Trigger",
+    "total_entities": 26,
+    "total_observations": 460,
+    "roi_protected": "4,900%+",
+    "criticality": "MAXIMUM - Usuario solicitó respaldo"
+  },
+  "critical_entities": {
+    "Framework Status v5.0": {
+      "entityType": "Core System",
+      "status": "100% operacional",
+      "observations_count": 208,
+      "key_metrics": {
+        "version": "v5.1.7 Unified",
+        "roi": "4,900%+",
+        "token_efficiency": "99.5%",
+        "conversations_daily": "20+",
+        "uptime": "24/7"
+      },
+      "latest_checkpoint": "Framework Memory Protection Protocol v1.0 implementado"
+    },
+    "AirCraftCare Sistema Email v5.0": {
+      "entityType": "Automatización Crítica", 
+      "status": "100% operacional",
+      "roi": "1,400%+",
+      "monthly_savings": "$1,500+",
+      "automation_level": "90%+ tiempo ahorrado"
+    },
+    "FedEx APS Documentation": {
+      "entityType": "Technical Knowledge Base",
+      "images_processed": 129,
+      "applications_documented": 8,
+      "technical_leader": "jgarcia.osv@fedex.com",
+      "team": "APS India - Accenture"
+    },
+    "Proyectos Activos v5.0": {
+      "entityType": "Portfolio Principal",
+      "projects": {
+        "trabajo_formal": "Líder Técnico FedEx/Accenture",
+        "negocio_personal": "Empresa TI + AirCraftCare",
+        "proyecto_judicial": "Custodia Rodrigo"
+      }
+    }
+  },
+  "architecture_backup": {
+    "memory_mcp": "70%",
+    "notion_mcp": "15%", 
+    "github_mcp": "10%",
+    "supabase_mcp": "5%"
+  },
+  "recovery_procedures": {
+    "estimated_time": "<1 hora",
+    "method": "Entity recreation from backup JSON",
+    "validation_checklist": [
+      "Framework Status v5.1.7 verification",
+      "AirCraftCare system operational",
+      "FedEx knowledge base accessible",
+      "Active projects context verified",
+      "Smart triggers functional",
+      "Token optimization intact"
+    ]
+  },
+  "next_backup_scheduled": "2025-07-24T23:30:00Z"
+}
