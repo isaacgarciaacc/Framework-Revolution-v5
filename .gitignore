@@ -1,0 +1,24 @@
+# Framework Revolution v5.1.3 - Repository cleanup
+# Files moved to docs/ structure - ignore root duplicates
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Framework logs
+framework-*.log
+
+# Node modules (if any)
+node_modules/
+
+# Backup files
+*.bak
+*.backup
